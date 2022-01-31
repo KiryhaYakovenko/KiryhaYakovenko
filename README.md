@@ -1,5 +1,5 @@
 ## What's going on? I'm Kirill and here's my page.
-![GitHub watchers](https://img.shields.io/github/watchers/yak152/Profile-Descript?label=Visitors&logoColor=%236274FF&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/yak152/yak152?label=Visitors&logoColor=%236274FF&style=social)
 
 
 There you can see my projects and some over tasks you may like.
