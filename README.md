@@ -2,14 +2,14 @@
 #### #include <stdio.h>
 #### void sayHello(void)
 ### {
->//Beginner programming enthusiast; math, economics and filmmaking enjoyer; article writer;
+>// Beginner programming enthusiast; math, economics and filmmaking enjoyer; article writer;
 
->//There you can see my **projects** and some over tasks you may like.
+>// There you can see my **projects** and some over tasks you may like.
 printf("This is where **my story** will be made.")
 ### }
-//*See you again!*
+// *See you again!*
 
-//**Kirill**
+// **Kirill**
 #### int main(void)
 #### {
 >sayHello();
