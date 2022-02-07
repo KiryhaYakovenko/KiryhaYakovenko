@@ -2,7 +2,7 @@
 #### #include <stdio.h>
 #### void sayHello(void)
 ### {
->//Beginning programming enthusiast; math, economics and filmmaking enjoyer; article writer;
+>// Beginning programming enthusiast; math, economics and filmmaking enjoyer; article writer;
 
 >// There you can see my **projects** and some over tasks you may like.
 >
