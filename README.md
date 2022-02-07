@@ -8,7 +8,7 @@
 printf("This is where **my story** will be made.")
 ### }
 //*See you again!*
-/**Kirill**
+**Kirill**
 #### int main(void)
 #### {
 >sayHello();
