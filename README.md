@@ -1,4 +1,4 @@
-# How's it? I'm Kirill and here's my page.
+# What's up? I'm Kirill and here's my page.
 #### #include <stdio.h>
 #### void sayHello(void)
 ### {
