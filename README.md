@@ -1,19 +1,5 @@
 # What's up? I'm Kirill and here's my page.
-#### #include <stdio.h>
-#### void sayHello(void)
-### {
->// Beginning web-programming enthusiast; math, economics and filmmaking enjoyer; article writer;
-
->// There you can see my **projects** and some over tasks you may like.
->
->printf("This is where **my story** will be made.")
-### }
-// *See you again!*
-
-// **Kirill**
-#### int main(void)
-#### {
->sayHello();
->
-return 0;
-#### }
+####
+> Beginning programming enthusiast. Fond of isec, cryptography and dev. No time to talk, let's work!
+> There you can see my **projects** and some over tasks you may like.
+> Check out my socials or contact me on Discord. Have a nice day!
