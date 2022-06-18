@@ -4,6 +4,7 @@
 ##### There you can see my projects and some other tasks you may like️
 ##### 🌐 Check out my socials ([VK](https://vk.com/based_on64), [Now](https://nowapp.me/based_on64)) or contact me on [Discord](https://discordapp.com/users/7913).
 ###
-###
+### Top languages
 ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=yak64&count_private=true)
+### My stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yak64&layout=compact)
