@@ -1,5 +1,3 @@
-[![KYakovenko](![github-photo](https://user-images.githubusercontent.com/83785189/174451112-8bc8cb78-1e16-4c14-b2e5-682995950a05.png)
-)]
 ## 👋 What's up? I'm Kirill and here's my page
 ###  🏃‍♂️ Beginning programming enthusiast, article writer, sportsman
 ##### Fond of information security (mostly cryptography) & dev. Working with a lot of different stuff. Also I like doing karate, workout, swimming and running ᕙ(`▿´)ᕗ
