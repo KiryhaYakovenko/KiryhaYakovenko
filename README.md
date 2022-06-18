@@ -1,7 +1,11 @@
-# What's up? I'm Kirill and here's my page.
-####
-> Beginning programming enthusiast. Fond of isec, cryptography and dev. No time to talk, let's work!
-
-> There you can see my **projects** and some over tasks you may like.
-
-> Check out my socials or contact me on Discord. Have a nice day!
+[![KYakovenko](![github-photo](https://user-images.githubusercontent.com/83785189/174451112-8bc8cb78-1e16-4c14-b2e5-682995950a05.png)
+)]
+## 👋 What's up? I'm Kirill and here's my page
+###  🏃‍♂️ Beginning programming enthusiast, article writer, sportsman
+##### Fond of information security (mostly cryptography) & dev. Working with a lot of different stuff. Also I like doing karate, workout, swimming and running ᕙ(`▿´)ᕗ
+##### There you can see my projects and some other tasks you may like️
+##### 🌐 Check out my socials ([VK](https://vk.com/based_on64), [Now](https://nowapp.me/based_on64)) or contact me on [Discord](https://discordapp.com/users/7913).
+###
+###
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=yak64&count_private=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yak64&layout=compact)
