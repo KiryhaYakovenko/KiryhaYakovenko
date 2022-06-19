@@ -5,6 +5,6 @@
 ##### 🌐 Check out my socials ([VK](https://vk.com/based_on64), [Now](https://nowapp.me/based_on64)) or contact me on [Discord](https://discordapp.com/users/7913).
 ###
 ### My stats
-![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=yak64&count_private=true)
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiryhaYakovenko&count_private=true)
 ### Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yak64&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiryhaYakovenko&layout=compact)
