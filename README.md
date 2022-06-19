@@ -2,7 +2,7 @@
 [![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=0078ff)](https://vk.com/based_on64)
 [![Nowapp](https://img.shields.io/badge/-Now-303030?style=for-the-badge&logo=wearos&logoColor=FFFFFF)](https://nowapp.me/based_on64)
 ![Discord](https://img.shields.io/badge/-Kyakov%237913-303030?style=for-the-badge&logo=discord&logoColor=5865f2)
-![Watchers](https://img.shields.io/github/watchers/yakcrypt/yakcrypt?style=social)
+![Telegraph](https://img.shields.io/badge/-Telegraph-303030?style=for-the-badge&logo=telegraph&logoColor=F9F6EE)
 ### Beginning programming enthusiast, article writer, sportsman
 ##### Fond of information security (mostly cryptography) & dev. Working with a lot of different stuff ᕙ(`▿´)ᕗ
 ##### There you can see my projects and some other activity you may like️.
