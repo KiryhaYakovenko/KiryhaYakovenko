@@ -6,7 +6,7 @@
 ### Beginning programming enthusiast, article writer, sportsman
 ##### Fond of information security (mostly cryptography) & dev. Working with a lot of different stuff ᕙ(`▿´)ᕗ
 ##### There you can see my projects and some other activity you may like️.
-##### 🌐 Check out my socials ([VK](https://vk.com/based_on64), [PixelFed](https://pixelfed.social/kyakov)) or contact me on Discord.
+##### 🌐 Check out my socials ([VK](https://vk.com/based_on64), [Pixelfed](https://pixelfed.social/kyakov)) or contact me on Discord.
 ###
 ### My stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yakcrypt?cardType=github&theme=react&Background=162343)](https://git.io/awesome-stats-card)
