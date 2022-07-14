@@ -2,7 +2,7 @@
 [![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=0078ff)](https://vk.com/based_on64)
 [![Pixelfed](https://img.shields.io/badge/-Pixelfed-303030?style=for-the-badge&logo=matrix&logoColor=FFFFFF)](https://pixelfed.social/kyakov)
 ![Discord](https://img.shields.io/badge/-Kyakov%237913-303030?style=for-the-badge&logo=discord&logoColor=5865f2)
-[![Codewars](https://img.shields.io/badge/-CDWRS-303030?style=for-the-badge&logo=codewars&logoColor=F9F6EE)](https://www.codewars.com/users/Kiryha)
+[![Codewars](https://img.shields.io/badge/-CDWRS-303030?style=for-the-badge&logo=codewars&logoColor=F9F6EE)](https://www.codewars.com/users/kyakov)
 ### Beginning programming enthusiast, article writer, sportsman
 ##### Fond of information security (mostly cryptography) & dev. Working with a lot of different stuff ᕙ(`▿´)ᕗ
 ##### There you can see my projects and some other activity you may like️.
