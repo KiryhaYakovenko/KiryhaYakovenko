@@ -2,7 +2,7 @@
 [![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=0078ff)](https://vk.com/daredev)
 [![YouTube](https://img.shields.io/badge/-YouTube-303030?style=for-the-badge&logo=YouTube&logoColor=db0404)](https://www.youtube.com/c/daredev)
 ![Discord](https://img.shields.io/badge/-edby%237913-303030?style=for-the-badge&logo=discord&logoColor=5865f2)
-[![LeetCode](https://img.shields.io/badge/-LC-303030?style=for-the-badge&logo=codewars&logoColor=F9F6EE)](https://leetcode.com/kyakov/)
+[![LeetCode](https://img.shields.io/badge/-Leetcode-303030?style=for-the-badge&logo=codewars&logoColor=F9F6EE)](https://leetcode.com/kyakov/)
 ### Beginning programming enthusiast, article writer, sportsman
 ##### Fond of information security (mostly cryptography) & dev. Working with a lot of different stuff ᕙ(`▿´)ᕗ
 ##### There you can see my projects and some other activity you may like️.
