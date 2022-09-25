@@ -1,5 +1,5 @@
 ## What's up? I'm Kirill and here's my page
-[![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=0078ff)](https://vk.com/daredev)
+[![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=0078ff)](https://vk.com/ykrll)
 [![YouTube](https://img.shields.io/badge/-YouTube-303030?style=for-the-badge&logo=YouTube&logoColor=db0404)](https://www.youtube.com/c/daredev)
 ![Discord](https://img.shields.io/badge/-edby%237913-303030?style=for-the-badge&logo=discord&logoColor=5865f2)
 [![LeetCode](https://img.shields.io/badge/-LTCD-303030?style=for-the-badge&logo=leetcode&logoColor=F9F6EE)](https://leetcode.com/kyakov/)
